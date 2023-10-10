@@ -7,16 +7,12 @@ NI CompactRIO real-time embedded industrial controller is used for continuous ac
 ## Application screenshots
 
 ###### Login Page
-![1](https://github.com/BB9086/MonitoringOfPowerTransformersV1/assets/118169200/82dbcc83-e96e-446d-8d86-4d8bfc3d3e6f)
+![1](https://github.com/BB9086/MonitoringOfPowerTransformersV1/assets/118169200/c36749e6-aa9c-4887-a97b-ab1286559a80)
 
 ###### Main Page
-
-![2](https://github.com/BB9086/MonitoringOfPowerTransformersV1/assets/118169200/b09977c3-a6cd-4496-8b3e-fc5fa3afcac0)
+![2](https://github.com/BB9086/MonitoringOfPowerTransformersV1/assets/118169200/15399c74-afbe-4cdc-9725-4d52e41d228f)
 
 ###### Table View
+![3](https://github.com/BB9086/MonitoringOfPowerTransformersV1/assets/118169200/8d6d7bbb-c0a9-41e3-a187-d23f0279c4c3)
 
-![3](https://github.com/BB9086/MonitoringOfPowerTransformersV1/assets/118169200/2c9c98cd-2b96-4919-befd-1124d15f6749)
 
-###### Responsive Design
-
-![4](https://github.com/BB9086/MonitoringOfPowerTransformersV1/assets/118169200/33a5d06b-dab3-4bf7-b57f-dd0194ef0457)
