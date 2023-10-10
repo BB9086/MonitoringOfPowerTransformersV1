@@ -1,4 +1,4 @@
-# On-line Monitoring of Power Transformers - ASP.NET Web Forms, JavaScript, SQL 
+# On-line Monitoring of Power Transformers - ASP.NET Web Forms, JavaScript, SQL, LabVIEW 
 
 **About this app:** The application provides continuous on-line data analysis and is responsible for safe operation of the power transformer. ADO.NET is used to provide access to SQL Server database. Basic access authentication is implemented. Exceptions are logged to the database table.
 
