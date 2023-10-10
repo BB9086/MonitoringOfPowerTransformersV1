@@ -5,8 +5,7 @@
 - ADO.NET is used to provide access to SQL Server database. 
 - Basic access authentication is implemented.
 - Exceptions are logged to the database table.
-- NI CompactRIO real-time embedded industrial controller is used for continuous acquisition of analog data.  
-- Measurement and control application is developed using LabVIEW (graphical programming language). 
+- NI CompactRIO real-time embedded industrial controller is used for continuous acquisition of analog data. Measurement and control application is developed using LabVIEW (graphical programming language). 
 
 ## Application screenshots
 
